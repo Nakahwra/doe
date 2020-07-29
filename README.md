@@ -1,4 +1,5 @@
-# Rocketseat MaratonaDev 3.0
+# DOE
+
 ## Briefing
 Fictional blood donation campaign webpage developed with HTML/CSS, Javscript, Node.js and PostgreSQL in a free 2-days course offered by [Rocketseat](https://www.rocketseat.com.br).
 
